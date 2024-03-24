@@ -1,4 +1,4 @@
-# ImageToText Converter
+# ImageToText Converter App
 
 ## Overview
 The ImageToText Converter is a tool designed to extract text from images. It utilizes optical character recognition (OCR) technology to recognize text in images and convert it into editable text.
