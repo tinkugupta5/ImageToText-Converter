@@ -14,7 +14,7 @@ function AboutPage() {
 }
 
 function PricingPage() {
-  return <div>Pricing Page</div>;
+  return <div>FAQ</div>;
 }
 
 function LoginPage() {
